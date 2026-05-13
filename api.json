@@ -33,7 +33,7 @@
             "api": "csp_AppGet",
             "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q22.txt|nzEqOYYH3QzHuEPl|122|Lavf/58.12.100"
         },
-	{
+        {
             "key": "天天",
             "name": "🚀 秒播",
             "type": 3,
@@ -43,18 +43,18 @@
             "timeout": 12,
             "ext": "vxw35/hHSj07Q+maxQzOVMq1rjRCOTXpUCx8iKu5jIg="
         },
-		{
+        {
             "key": "腾讯",
             "name": "腾讯",
             "type": 3,
-            "playerType": "2",
+            "playerType": 2,
             "api": "https://tvbox.catvod.com/js/drpy2.min.js",
             "ext": "https://tvbox.catvod.com/js/tx.js"
         },
         {
             "key": "3QQQ",
             "name": "🍅大鹅",
-            "type": 3，
+            "type": 3,
             "timeout": 15,
             "api": "csp_App3Q"
         },
