@@ -43,6 +43,14 @@
             "timeout": 12,
             "ext": "vxw35/hHSj07Q+maxQzOVMq1rjRCOTXpUCx8iKu5jIg="
         },
+		{
+            "key": "腾讯",
+            "name": "腾讯",
+            "type": 3,
+            "playerType": "2",
+            "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+            "ext": "https://tvbox.catvod.com/js/tx.js"
+        },
         {
             "key": "3QQQ",
             "name": "🍅大鹅",
