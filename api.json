@@ -1,5 +1,5 @@
 {
-    "spider": "https://raw.githubusercontent.com/zzq520/ichenc.github.io/refs/heads/main/spider.jar",
+    "spider": "./spider.jar",
     "wallpaper": "https://www.wexwp.cc/bizhi.php",
     "sites": [
         {
