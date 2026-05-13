@@ -43,40 +43,10 @@
             "timeout": 12,
             "ext": "vxw35/hHSj07Q+maxQzOVMq1rjRCOTXpUCx8iKu5jIg="
         },
-		{
-            "key": "csp_LiteApple",
-            "name": "🍎苹果┃1080P",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "csp_LiteApple",
-            "playerType": 1,
-            "filterable": 1,
-            "ext": ""
-        },
-		{
-            "key": "君君",
-            "name": "🚗君君┃1080P",
-            "playerType": 1,
-            "type": 3,
-            "changeable": 0,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://122.228.85.203:1000/api.php/app/"
-        },
-        {
-			"key": "csp_Xdys",
-			"name": "👬️兄弟┃108P",
-			"type": 3,
-			"api": "csp_Xdys",
-			"playerType": 2
-		},
         {
             "key": "3QQQ",
             "name": "🍅大鹅",
-            "type": 3,
+            "type": 3，
             "timeout": 15,
             "api": "csp_App3Q"
         },
