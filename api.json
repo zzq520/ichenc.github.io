@@ -1,5 +1,5 @@
 {
-    "spider": "https://a.zzq520.com:88/Downloads/spider.jar",
+    "spider": "./spider.jar",
     "wallpaper": "https://www.wexwp.cc/bizhi.php",
     "sites": [
         {
