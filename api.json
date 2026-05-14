@@ -3,6 +3,101 @@
     "wallpaper": "https://www.wexwp.cc/bizhi.php",
     "sites": [
         {
+            "key": "豆豆",
+            "name": "🎬热播｜接口内容源均来自互联网搜集 ",
+            "type": 3,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "api": "csp_Douban",
+            "searchable": 0
+        },
+        {
+            "key": "config",
+            "name": "⚙️网盘｜Cookie配置 测试完请自行删除",
+            "type": 3,
+            "api": "csp_Config",
+            "searchable": 0
+        },
+        {
+            "key": "csp_Netfixtv",
+            "name": "🚀✈️ZHIZHEN4K｜网盘",
+            "type": 3,
+            "changeable": "0",
+            "quickSearch": 1,
+            "timeout": 15,
+            "api": "csp_Duopan",
+            "filterable": 1,
+            "ext": {
+                "site_urls": [
+                    "https://www.zhizhen8.click",
+                    "https://pan.mihdr.top",
+                    "https://www.zhizhen1.top",
+                    "https://www.mihdr.top",
+                    "https://www.miqk.cc"
+                ],
+                "url_key": "Netfixtv",
+                "token": "",
+                "ucCookie": "",
+                "quarkCookie": ""
+            }
+        },
+        {
+            "key": "csp_Netfixtv2",
+            "name": "✨☁️ERXIAO4K｜网盘",
+            "type": 3,
+            "changeable": "0",
+            "quickSearch": 1,
+            "timeout": 15,
+            "api": "csp_Duopan",
+            "filterable": 1,
+            "ext": {
+                "site_urls": [
+                    "https://www.erxiaozhan.top",
+                    "https://www.2xiaozhan.top",
+                    "https://www.2xiaopan.top",
+                    "https://www.wexwp.cc"
+                ],
+                "url_key": "UC",
+                "token": "",
+                "ucCookie": "",
+                "quarkCookie": ""
+            }
+        },
+        {
+            "key": "csp_Wogg",
+            "name": "🧁🧀玩偶4K｜网盘",
+            "type": 3,
+            "api": "csp_Wogg",
+            "timeout": 15,
+            "changeable": "0",
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "mAdMvijsdpLz+xMtYQCW1nJ+mpefKKrleWG+USa3HARBc3zWLTb1cc321bKDLxXrYkZjUVc7y2TSDRKbupeW9IHjvGE01hFbo3wCHx0+kNkenbdKO4KZo3297jK0vkZHsA2lXS7SOb+WArfs2EGBFIJ0eR/LdfTH34oVjsIyzRipe6OWV6YTQrqrW6v/7VXV9fj759LpUM8HHXjVfOEXp31Psa3nCHsEzw5P3Bn8tTAxiQc8NemijjeRois1SRwg"
+        },
+        {
+            "key": "csp_Duopan",
+            "name": "☁✨️蜡笔4K｜网盘",
+            "type": 3,
+            "quickSearch": 1,
+            "changeable": "0",
+            "timeout": 15,
+            "api": "csp_Duopan",
+            "filterable": 1,
+            "ext": {
+                "site_urls": [
+                    "http://xiaocge.fun",
+                    "http://feimo.fun",
+                    "http://www.labi88.sbs",
+                    "http://fmao.site",
+                    "http://fmao.shop",
+                    "http://xiaocgege.shop",
+                    "http://www.xiaocgege.shop"
+                ],
+                "url_key": "Duopan4"
+            }
+        },
+        {
             "key": "天天",
             "name": "🚀秒播｜影视",
             "type": 3,
@@ -84,7 +179,7 @@
         {
             "key": "爱营",
             "name": "💥爱影｜1080P",
-            "type": 3，
+            "type": 3,
             "searchable": 1,
             "changeable": 1,
             "api": "csp_AppGet",
@@ -92,7 +187,7 @@
         },
         {
             "key": "3QQQ",
-            "name": "🍅大鹅",
+            "name": "🍅小米｜大鹅",
             "type": 3,
             "timeout": 15,
             "api": "csp_App3Q"
@@ -192,7 +287,7 @@
             "api": "csp_Douyu",
             "jar": "./jars/追剧达人.jar",
             "searchable": 0,
-            "quickSearch": 0，
+            "quickSearch": 0,
             "changeable": 0,
             "filterable": 1,
             "timeout": 10,
@@ -203,7 +298,7 @@
         },
         {
             "key": "csp_duanju",
-            "name": "🔥短剧｜影视"，
+            "name": "🔥短剧｜影视",
             "type": 3,
             "timeout": 12,
             "api": "csp_DuanJu"
